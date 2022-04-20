@@ -1,0 +1,2 @@
+# LOOCV-LROCV-KNN
+K-Nearest Neighbor Regression with euclidean distance has been used to predict total metal concentration (c_total), concentration of Cadmium (Cd) and concentration of Lead (Pb), for each sample using number of neighbors k = 3. For measuring the performance, an implementation of Leave-One-Out and Leave-Replicas-Out cross-validation have been used to calculate the C-index for each output.
